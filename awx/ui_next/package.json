@@ -60,7 +60,7 @@
     "@patternfly/patternfly": "^2.7.0",
     "@patternfly/react-core": "^3.16.14",
     "@patternfly/react-icons": "^3.7.5",
-    "@patternfly/react-tokens": "^2.3.3",
+    "@patternfly/react-tokens": "^2.8.15",
     "axios": "^0.18.0",
     "codemirror": "^5.47.0",
     "formik": "^1.5.1",
