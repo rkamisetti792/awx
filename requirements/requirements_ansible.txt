@@ -64,7 +64,7 @@ jsonpatch==1.23           # via openstacksdk
 jsonpointer==2.0          # via jsonpatch
 keystoneauth1==3.14.0     # via openstacksdk
 knack==0.3.3              # via azure-cli-core
-lxml==4.3.3               # via ncclient, pyvmomi
+lxml==4.6.3               # via ncclient, pyvmomi
 markupsafe==1.1.1         # via jinja2
 monotonic==1.5; python_version < "3" # via humanfriendly
 msrest==0.6.1
