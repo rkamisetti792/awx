@@ -58,7 +58,7 @@ jsonpickle==1.2           # via asgi-amqp
 jsonschema==2.6.0
 kombu==4.5.0              # via asgi-amqp, celery
 lockfile==0.12.2          # via python-daemon
-lxml==4.3.3               # via xmlsec
+lxml==4.6.5               # via xmlsec
 markdown==2.6.11
 markupsafe==1.1.1         # via jinja2
 more-itertools==7.0.0     # via irc, jaraco.functools, jaraco.itertools
