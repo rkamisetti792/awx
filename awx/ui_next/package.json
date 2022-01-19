@@ -63,7 +63,7 @@
     "@patternfly/react-tokens": "^2.3.3",
     "axios": "^0.18.0",
     "codemirror": "^5.47.0",
-    "formik": "^1.5.1",
+    "formik": "^2.0.0",
     "js-yaml": "^3.13.1",
     "prop-types": "^15.6.2",
     "react": "^16.4.1",
