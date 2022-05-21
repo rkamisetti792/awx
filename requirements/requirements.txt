@@ -79,7 +79,7 @@ pyasn1==0.4.5             # via pyasn1-modules, python-ldap, service-identity
 pycparser==2.19           # via cffi
 pygerduty==0.37.0
 pyhamcrest==1.9.0         # via twisted
-pyjwt==1.7.1              # via adal, social-auth-core, twilio
+pyjwt==2.4.0              # via adal, social-auth-core, twilio
 pyopenssl==19.0.0         # via twisted
 pyparsing==2.2.0
 pyrad==2.1                # via django-radius
