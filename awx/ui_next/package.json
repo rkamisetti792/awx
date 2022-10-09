@@ -12,7 +12,9 @@
     "extract-strings": "lingui extract",
     "compile-strings": "lingui compile",
     "prettier": "prettier --write \"src/**/*.{js,jsx,scss}\"",
-    "prettier-check": "prettier --check \"src/**/*.{js,jsx,scss}\""
+    "prettier-check": "prettier --check \"src/**/*.{js,jsx,scss}\"",
+    "prepare": "npm run snyk-protect",
+    "snyk-protect": "snyk-protect"
   },
   "keywords": [],
   "author": "",
@@ -61,15 +63,17 @@
     "@patternfly/react-core": "^3.16.14",
     "@patternfly/react-icons": "^3.7.5",
     "@patternfly/react-tokens": "^2.3.3",
-    "axios": "^0.18.0",
-    "codemirror": "^5.47.0",
-    "formik": "^1.5.1",
+    "axios": "^0.21.3",
+    "codemirror": "^5.58.2",
+    "formik": "^2.0.0",
     "js-yaml": "^3.13.1",
     "prop-types": "^15.6.2",
     "react": "^16.4.1",
     "react-codemirror2": "^6.0.0",
     "react-dom": "^16.4.1",
     "react-router-dom": "^4.3.1",
-    "styled-components": "^4.2.0"
-  }
+    "styled-components": "^4.2.0",
+    "@snyk/protect": "latest"
+  },
+  "snyk": true
 }
