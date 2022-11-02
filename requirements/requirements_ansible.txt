@@ -46,7 +46,7 @@ certifi==2019.3.9         # via msrest, requests
 cffi==1.12.3              # via bcrypt, cryptography, pynacl
 chardet==3.0.4            # via requests
 colorama==0.4.1           # via azure-cli-core, knack
-cryptography==2.6.1       # via adal, azure-keyvault, azure-storage, openstacksdk, paramiko, pyopenssl, requests-credssp, requests-kerberos, requests-ntlm
+cryptography==3.2       # via adal, azure-keyvault, azure-storage, openstacksdk, paramiko, pyopenssl, requests-credssp, requests-kerberos, requests-ntlm
 decorator==4.4.0          # via dogpile.cache, openstacksdk
 docutils==0.14            # via botocore
 dogpile.cache==0.7.1      # via openstacksdk
@@ -111,8 +111,8 @@ six==1.12.0               # via azure-cli-core, bcrypt, cryptography, google-aut
 stevedore==1.30.1         # via keystoneauth1
 tabulate==0.8.2           # via azure-cli-core, knack
 typing==3.6.6; python_version < "3" # via msrest
-urllib3==1.24.3           # via requests
-wheel==0.30.0             # via azure-cli-core
+urllib3==1.26.5           # via requests
+wheel==0.38.0             # via azure-cli-core
 xmltodict==0.12.0         # via pywinrm
 
 # The following packages are considered to be unsafe in a requirements file:
