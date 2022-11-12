@@ -1,6 +1,6 @@
 adal==1.2.1               # via msrestazure
 amqp==2.4.2               # via kombu
-ansible-runner==1.3.4
+ansible-runner==2.1.0
 appdirs==1.4.2
 argparse==1.4.0           # via uwsgitop
 asgi-amqp==1.1.3
@@ -71,7 +71,7 @@ ordereddict==1.1
 pexpect==4.6.0            # via ansible-runner
 pkgconfig==1.5.1          # via xmlsec
 prometheus_client==0.6.0
-psutil==5.4.3
+psutil==5.6.7
 psycopg2==2.7.3.2
 ptyprocess==0.6.0         # via pexpect
 pyasn1-modules==0.2.5     # via python-ldap, service-identity
@@ -92,7 +92,7 @@ python-radius==1.0
 python3-openid==3.1.0     # via social-auth-core
 python3-saml==1.4.0
 pytz==2019.1              # via celery, django, irc, tempora, twilio
-pyyaml==5.1               # via ansible-runner, djangorestframework-yaml
+pyyaml==5.4               # via ansible-runner, djangorestframework-yaml
 requests-futures==0.9.7
 requests-oauthlib==1.2.0  # via msrest, social-auth-core
 requests==2.21.0
