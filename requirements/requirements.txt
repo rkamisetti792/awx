@@ -39,7 +39,7 @@ django==1.11.20
 djangorestframework-yaml==1.0.3
 djangorestframework==3.9.4
 
-future==0.16.0            # via django-radius
+future==0.18.3            # via django-radius
 hyperlink==19.0.0         # via twisted
 idna==2.8                 # via hyperlink, requests, twisted
 incremental==17.5.0       # via twisted
