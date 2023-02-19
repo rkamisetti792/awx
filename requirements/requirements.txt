@@ -118,4 +118,5 @@ zope.interface==4.6.0     # via twisted
 
 # The following packages are considered to be unsafe in a requirements file:
 pip==9.0.1
-setuptools==36.0.1
+setuptools==65.5.1
+twisted>=22.10.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
