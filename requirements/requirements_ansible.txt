@@ -102,7 +102,7 @@ requests-credssp==1.0.2
 requests-kerberos==0.12.0  # via pywinrm
 requests-ntlm==1.1.0      # via pywinrm
 requests-oauthlib==1.2.0  # via msrest
-requests==2.21.0
+requests==2.31.0
 requestsexceptions==1.4.0  # via openstacksdk
 rsa==4.0                  # via google-auth
 s3transfer==0.1.13        # via boto3
