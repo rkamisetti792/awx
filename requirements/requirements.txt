@@ -15,7 +15,7 @@ azure-nspkg==3.0.2        # via azure-keyvault
 billiard==3.6.0.0         # via celery
 boto==2.47.0
 celery==4.3.0
-certifi==2019.3.9         # via msrest, requests
+certifi==2023.7.22         # via msrest, requests
 cffi==1.12.3              # via cryptography
 channels==1.1.8
 chardet==3.0.4            # via requests
