@@ -1,3 +1,4 @@
 psutil==5.4.3     # same as AWX requirement
 pexpect==4.6.0    # same as AWX requirement
 python-daemon==2.1.2
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
